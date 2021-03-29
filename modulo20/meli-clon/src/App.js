@@ -3,7 +3,7 @@ import Home from "./containers/Home/Home"
 import Products from "./containers/Products/Products"
 import Product from "./containers/Product/Product"
 import Favorites from "./containers/Favorites/Favorites"
-
+//utlima prueba
 import { Route } from "react-router-dom"
 
 import * as favoritesActions from "./store/actions/favoriteActions";
