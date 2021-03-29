@@ -1,0 +1,45 @@
+/**ABOUT*/
+#about {
+    border-left: solid 32px #E0752F;
+    height: auto;
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    width: 1366px;
+  }
+  
+  .about-container{
+       display: flex;
+      flex-direction: column;
+     
+  }
+  
+  
+  .about-container--H2{
+        align-self: center;
+        width: 768px;
+  }
+  
+  .about-container--H2 h2{
+    font-size: 39px;
+    width: 400px;
+    align-content: flex-start;
+    
+  }
+  
+  .about-container--H2 h2 span{
+    color: #E0752F;
+  }
+  
+  
+  .about-container--P{
+        align-self: center;
+        width: 768px;
+        height: 197px;
+  }
+  
+  .about-container--P p{
+    font-size: 16px;
+    
+  }
+    /*FIN DE ABOUT*/
